@@ -7,3 +7,4 @@ Created on Thu Aug  6 13:21:37 2020
 
 print("hello how are you")
 print("coding is love")
+print("python is fun")
